@@ -46,10 +46,10 @@ header.scroll #gnb {color: #333;}
 /* Main */
 .swiper {width: 100vw;height: 700px;}
 .swiper-slide {position: relative;}
-.swiper .slide1 {background: url(../img/visual1.JPG) center;}
-.swiper .slide2 {background: url(../img/visual2.JPG) center;}
-.swiper .slide3 {background: url(../img/visual3.JPG) center;}
-.swiper .slide4 {background: url(../img/visual4.JPG) center;}
+.swiper .slide1 {background: url(../img/visual1.jpg) center;}
+.swiper .slide2 {background: url(../img/visual2.jpg) center;}
+.swiper .slide3 {background: url(../img/visual3.jpg) center;}
+.swiper .slide4 {background: url(../img/visual4.jpg) center;}
 
 .swiper p {
    position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);width: 1100px;
